@@ -1,2 +1,2 @@
-# votos-senado
-Scraper de votos dos senadores
+# votos-deputados
+Scraper de votos dos deputados federais
